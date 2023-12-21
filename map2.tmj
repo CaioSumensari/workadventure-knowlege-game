@@ -468,7 +468,7 @@
         {
          "columns":12,
          "firstgid":109,
-         "image":"tilesets\/assets_spritesheet_v2_free",
+         "image":"tilesets\/assets_spritesheet_v2_free.png",
          "imageheight":384,
          "imagewidth":384,
          "margin":0,
